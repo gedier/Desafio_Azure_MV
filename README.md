@@ -24,5 +24,5 @@ Seguindo o passo a passo do Copilot, fiz a criação da Máquina Virtual, bem co
   10) Naveguei pela tela inicial do Azure, procurando entender o que já havia feito e como era o Estado da Máquina Virtual Criada. identifiquei o Status de "Interrompido(Desalocado)". Fiquei tranquilo, entendendo que a máquina virtual não estava mais ativa. (Desafio_MV_Tela11.png);
   11) Por fim, seguindo a orientação da Instrutora, para não ter dúvidas que não haverá cobrança. Excluí a Máquina Virtual. Concluindo assim este desafio, ficando faltando apenas documentar no GitHub este laboratório. (Desafio_MV_Tela11.png, Desafio_MV_Tela12.png, Desafio_MV_Tela13.png)
   12) Criei o Repositório no GitHub. O processo no GitHub foi bem mais claro e fácil de se executar. (Desafio_MV_Tela12.png).
-  13) 
+# Fim
  
